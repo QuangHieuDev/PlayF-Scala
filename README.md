@@ -1,0 +1,2 @@
+Play Framework: Powerful web dev tool in Scala. Simple routing, async processing with Akka.
+Integrated with sbt for easy dependency management. Hot reloading for rapid iteration. Ideal for efficient, scalable web apps.
